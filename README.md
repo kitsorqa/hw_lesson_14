@@ -1,6 +1,6 @@
 # Проект по UI тестированию онлайн сервиса по подбору и консультации с психологами [ЯСНО](https://yasno.live/)
 
-<img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/yasno.png" width="75">
+<img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/yasno.png">
 
 # Список проверок, реализованных в автотестах:
 ### UI автотесты:
