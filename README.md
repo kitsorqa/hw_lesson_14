@@ -22,8 +22,8 @@
 
 # Отчет о пройденном тесте
 
-<img src="https://github.com/kitsorqa/final_project/blob/main/imgs/jenkins_result.png" width="75">
+<img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/jenkins_result.png">
 
 # Отчет о прохождении автотестов в Telegram
 
-<img src="https://github.com/kitsorqa/final_project/blob/main/imgs/tg_alert.png" width="75">
+<img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/tg_alert.png">
