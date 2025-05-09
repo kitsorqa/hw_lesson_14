@@ -20,7 +20,11 @@
 <img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/selenium.png" width="75">
 <img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/selenoid.png" width="75">
 
-# Отчет о пройденном тесте
+# Общий отчет о пройденном тесте
+
+<img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/result.png">
+
+# Более подробный отчет о пройденном тесте
 
 <img src="https://github.com/kitsorqa/hw_lesson_14/blob/main/imgs/jenkins_result.png">
 
